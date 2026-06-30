@@ -1,7 +1,7 @@
 # Customer Churn Prediction
 > Stage 2 of the "Data-Driven Engineering & Decision Making" portfolio.
 
-[![View Report](https://img.shields.io/badge/View-Live_HTML_Report-blue)](YOUR_GITHUB_PAGES_URL)
+[![View Report](https://img.shields.io/badge/View_Live_HTML_Report-blue)](https://tsl4yer.github.io/customer-churn-prediction/reports/reports.html)
 [![Python](https://img.shields.io/badge/Python-3.9+-yellow)]()
 
 ## Summary
